@@ -1,0 +1,15 @@
+/Users/olgabazulina/Desktop/Task1/1/bin/Debug/net6.0/1
+/Users/olgabazulina/Desktop/Task1/1/bin/Debug/net6.0/1.deps.json
+/Users/olgabazulina/Desktop/Task1/1/bin/Debug/net6.0/1.runtimeconfig.json
+/Users/olgabazulina/Desktop/Task1/1/bin/Debug/net6.0/1.dll
+/Users/olgabazulina/Desktop/Task1/1/bin/Debug/net6.0/1.pdb
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/1.dll
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/refint/1.dll
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/1.pdb
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+/Users/olgabazulina/Desktop/Task1/1/obj/Debug/net6.0/ref/1.dll
